@@ -1,0 +1,57 @@
+1501395457524	geckodriver	INFO	geckodriver 0.18.0
+1501395457536	geckodriver	INFO	Listening on 127.0.0.1:60104
+1501395459569	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1501395461919	Marionette	INFO	Listening on port 60110
+1501395462707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 131: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 134: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 134: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 134: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 134: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://data.nowgoal.com/OddsCompBasket/284834.html, line 134: SyntaxError: 09 is not a legal ECMA-262 octal constant
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501396108264	Marionette	INFO	Ceased listening
+@chrome://marionette/content/atom.js:121:145
+Aa@chrome://marionette/content/atom.js:126:65
+Da@chrome://marionette/content/atom.js:128:344
+atom.getElementText/<@chrome://marionette/content/atom.js:129:91
+atom.getElementText@chrome://marionette/content/atom.js:105:57
+getElementText@chrome://marionette/content/listener.js:1423:10
+dispatch/</req<@chrome://marionette/content/listener.js:467:22
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:465:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501392618884	Marionette	INFO	Ceased listening
